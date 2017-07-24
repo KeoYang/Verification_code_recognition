@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/train/BinaryTest.java=UTF-8
+encoding//src/train/Crawl.java=UTF-8
+encoding//src/train/Identy.java=UTF-8
+encoding//src/train/Jiangsu_SeProj.java=UTF-8
+encoding//src/train/Liaoning_SegProj.java=UTF-8
+encoding//src/train/NingXia_SegProj.java=UTF-8
+encoding//src/train/Predict.java=UTF-8
+encoding//src/train/Preprocess.java=UTF-8
+encoding//src/train/ScaleImage.java=UTF-8
+encoding//src/train/SegCfg.java=UTF-8
+encoding//src/train/SegProj.java=UTF-8
+encoding//src/train/SegWaterDrop.java=UTF-8
+encoding//src/train/Tianjin_ProcessImg.java=UTF-8
+encoding//src/train/Train.java=UTF-8
